@@ -1,0 +1,6 @@
+{
+  "name": "Cynbit Smart Service Finder",
+  "description": "An interactive service discovery tool designed for Cynbit Technologies to guide business clients to optimal AI, Full Stack, Cloud, and Marketing solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
